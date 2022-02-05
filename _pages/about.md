@@ -11,7 +11,7 @@ redirect_from:
 Research Assistant of Economics at the University of Piura.
 My work is in microeconomics, behavioral economics and experimental economics.
 
-## [Publlications](Publlications)
+## [Publications](publications)
 
 ## [Teaching](teaching)
 
