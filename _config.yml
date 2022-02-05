@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &kong_vega
 facebook:
   username               :
   app_id                 :
@@ -81,14 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Kong"
-  avatar           : "profile.png"
+  avatar           : "foto.png"
   bio              : "Research Assistant of Economics at the University of Piura"
   location         : "Lima"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "a20140239@pucp.edu.pe"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "cdkv"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "kong_vega"
   vine             :
   weibo            :
   xing             :
