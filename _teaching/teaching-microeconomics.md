@@ -2,7 +2,7 @@
 title: "Teacher Assistant in Microeconomics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/teaching-microeconomics
 venue: "UDEP, Department of economics"
 date: 2021, 2022
 location: "Lima, Perú"
