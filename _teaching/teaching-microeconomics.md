@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-microeconomics
 venue: "UDEP, Department of economics"
-date: 2021, 2022
+date: 2021-12-31
 location: "Lima, Perú"
 ---
 
