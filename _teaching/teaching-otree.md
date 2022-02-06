@@ -2,7 +2,7 @@
 title: "Workshop O-tree"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/teaching-otree
 venue: "PUCP-UDEP, Department of Economics"
 date:  2020-Present
 location: "Lima, Peru"
